@@ -1,0 +1,19 @@
+﻿<Window x:Class="TicTacToeClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TicTacToe! Client" Height="309" Width="205">
+    <Grid>
+        <Button Height="48" HorizontalAlignment="Left" Margin="12,41,0,0" Name="B1" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B1_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="66,41,0,0" Name="B2" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B2_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="120,41,0,0" Name="B3" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B3_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="12,95,0,0" Name="B4" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B4_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="66,95,0,0" Name="B5" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B5_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="120,95,0,0" Name="B6" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B6_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="12,149,0,0" Name="B7" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B7_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="66,149,0,0" Name="B8" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B8_Click" FontWeight="Bold" FontSize="28" />
+        <Button Height="48" HorizontalAlignment="Left" Margin="120,149,0,0" Name="B9" VerticalAlignment="Top" Width="48" IsEnabled="False" Click="B9_Click" FontWeight="Bold" FontSize="28" />
+        <Button Content="List games..." Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="listGamesBtn" VerticalAlignment="Top" Width="104" Click="listGamesBtn_Click" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,203,0,0" Name="statusTextBlock" Text="Please click &quot;List games...&quot;" VerticalAlignment="Top" />
+        <TextBlock Text="No opponent" Height="28" Margin="12,0,15,12" Name="opponentName" VerticalAlignment="Bottom" FontWeight="Bold" />
+    </Grid>
+</Window>

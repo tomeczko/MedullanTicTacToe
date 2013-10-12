@@ -1,0 +1,15 @@
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToeClient.exe
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToeClient.pdb
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.baml
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.g.cs
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\App.g.cs
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToeClient_MarkupCompile.cache
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToeClient.g.resources
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToeClient.Properties.Resources.resources
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToeClient.exe
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToeClient.pdb
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\ListGamesWindow.baml
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe\obj\x86\Debug\ListGamesWindow.g.cs

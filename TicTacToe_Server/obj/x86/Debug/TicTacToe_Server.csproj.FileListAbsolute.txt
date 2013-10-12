@@ -1,0 +1,13 @@
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\bin\Debug\TicTacToe_Server.exe
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\bin\Debug\TicTacToe_Server.pdb
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\MainWindow.baml
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\MainWindow.g.cs
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\App.g.cs
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\TicTacToe_Server_MarkupCompile.cache
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\TicTacToe_Server.g.resources
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\TicTacToe_Server.Properties.Resources.resources
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\TicTacToe_Server.exe
+c:\users\bartek\documents\visual studio 2010\Projects\TicTacToe\TicTacToe_Server\obj\x86\Debug\TicTacToe_Server.pdb
